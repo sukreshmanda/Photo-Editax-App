@@ -29,6 +29,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [<img target="_blank" alt="usermanual" width="40px"  src="https://us.123rf.com/450wm/anatolir/anatolir1907/anatolir190701360/126596543-stock-vector-user-guide-papers-icon-flat-style.jpg">](../main/usermanual.md)  
 <br />  
+## Code of Conduct
+[Code of Conduct](https://github.com/sukreshmanda/Photo-Editax-App/blob/main/CODE_OF_CONDUCT.md)
+<br />  
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU General Public License v3.0 ](https://github.com/sukreshmanda/Photo-Editax-App/blob/main/LICENSE)
 <br />
