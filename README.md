@@ -28,6 +28,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## User manual
 
 [<img align="left" target="_blank" alt="usermanual" width="40px"  src="https://us.123rf.com/450wm/anatolir/anatolir1907/anatolir190701360/126596543-stock-vector-user-guide-papers-icon-flat-style.jpg">](https://github.com/user/repo/blob/branch/other_file.md)
+<br>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
